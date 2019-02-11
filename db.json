@@ -1,0 +1,35 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Meredith Grey"
+    },
+    {
+      "id": 2,
+      "name": "Derek Shepherd"
+    },
+    {
+      "id": 3,
+      "name": "Christina Yang"
+    },
+    {
+      "id": 4,
+      "name": "Izzy Stevens"
+    },
+    {
+      "id": 5,
+      "name": "Alex Karev"
+    },
+    {
+      "id": 6,
+      "name": "George O'Malley"
+    }
+  ],
+  "links": {
+    "previous": "HiIAmPreviousLink",
+    "next": "HiIAmNextLink"
+  },
+  "metadata": {
+      "totalPages": "7"
+  }
+}
